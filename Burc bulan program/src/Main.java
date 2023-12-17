@@ -139,7 +139,7 @@ public class Main {
                 if (day >= 1 && day <= 31) {
                     if (day < 21) {
                         burc = "Yay";
-                    } else {
+                    } else {vc
                         burc = "Oğlak";
                     }
                 } else {
